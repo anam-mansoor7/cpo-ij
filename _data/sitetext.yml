@@ -31,16 +31,16 @@ en: &DEFAULT_EN
     list:
       - title: "Diversity"
         desc: "From the start, it has always been the approach to be an accessible CPO for everyone. This makes us a nice mix of different cultures, origins and professions. Our communal garden is meant to join not only the owners but people from the whole Centrumeiland"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-users #find more at https://fontawesome.com/icons
       - title: "Solidarity"
         desc: "We think it is very important to take everyone's situation into account. During decision-making, we strive for complete consensus within the group, which fortunately often succeeds by having open conversations and listening carefully to each other."
-        icon: fas fa-group
+        icon: fas fa-handshake
       - title: "Creativity"
         desc: "The best thing about a CPO is of course the complete freedom to arrange your house the way you want! You get a 1 - 1 session with the architect to discuss all your wishes and you will have complete freedom of choice regarding your interior"
-        icon: fab fa-markdown
+        icon: fas fa-lightbulb
       - title: "Sustainability"
         desc: "IJ-UP is all about sustainable construction. Think of: triple glazing, sun blinds, solar panels,, underfloor heating, a heat pump and mechanical ventilation to keep the air quality of your home pure. "
-        icon: fab fa-markdown
+        icon: fas fa-tree
 
   portfolio:
     title: "Portfolio"
