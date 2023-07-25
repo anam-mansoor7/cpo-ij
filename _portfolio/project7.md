@@ -1,5 +1,5 @@
-project3.md---
-title: Apartment# 6
+---
+title: Apartment# 60
 subtitle: 77 m² | € 335,686 v.o.n.
 image: assets/img/portfolio/house3.png
 image: assets/img/portfolio/house3.png
