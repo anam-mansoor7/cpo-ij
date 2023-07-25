@@ -44,7 +44,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Available apartments"
-    text: "Approximately 4500 €/sq.m. Costs are 25% lower than market value"
+    text: "Approximately 4800 €/sq.m. Costs are 20% lower than market value"
     section: portfolio
     closebutton: "Close"
 
@@ -58,34 +58,26 @@ en: &DEFAULT_EN
       - title: "First idea"
         year: "2019"
         desc: "Build a house together"
-        image: assets/img/timeline/1.jpg
         alt:
       - title: "Group established"
         year: "2020"
         desc: ""
-        image: assets/img/timeline/2.jpg
         alt:
       - title: "Officially an association"
         year: "2021"
         desc: "The option is signed with the municipality"
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
       - title: "Working on the designs with the architect"
         year: "2022"
         desc: ""
-        image: assets/img/timeline/4.jpg
       - title: "Design is final"
         year: "2023"
         desc: "Permits are being applied"
-        image: assets/img/timeline/4.jpg
       - title: "Construction starts"
         year: "2024"
         desc: ""
-        image: assets/img/timeline/4.jpg
       - title: "Delivery and organisation of VVE"
         year: "2025"
         desc: ""
-        image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
 #        align: right
@@ -148,18 +140,9 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Email cpoijburg@mail.com or call directly +31 (0) 20-6816716"
     section: contact
     name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"
