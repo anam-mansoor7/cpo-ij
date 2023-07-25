@@ -44,7 +44,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Available apartments"
-    text: "Approximately 4500 €/sq.m. Costs are 25% lower than market value"
+    text: "Approximately 4800 €/sq.m. Costs are 20% lower than market value"
     section: portfolio
     closebutton: "Close"
 
@@ -58,34 +58,26 @@ en: &DEFAULT_EN
       - title: "First idea"
         year: "2019"
         desc: "Build a house together"
-        image: assets/img/timeline/1.jpg
         alt:
       - title: "Group established"
         year: "2020"
         desc: ""
-        image: assets/img/timeline/2.jpg
         alt:
       - title: "Officially an association"
         year: "2021"
         desc: "The option is signed with the municipality"
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
       - title: "Working on the designs with the architect"
         year: "2022"
         desc: ""
-        image: assets/img/timeline/4.jpg
       - title: "Design is final"
         year: "2023"
         desc: "Permits are being applied"
-        image: assets/img/timeline/4.jpg
       - title: "Construction starts"
         year: "2024"
         desc: ""
-        image: assets/img/timeline/4.jpg
       - title: "Delivery and organisation of VVE"
         year: "2025"
         desc: ""
-        image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
 #        align: right
