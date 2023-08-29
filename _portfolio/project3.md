@@ -1,14 +1,10 @@
 ---
-title: Apartment# 6
-subtitle: 77 m² | € 335,686 v.o.n.
-image: assets/img/portfolio/house3.png
-image: assets/img/portfolio/house3.png
+title: Apartment# 11
+subtitle: 125 m² | € 595,949.344 v.o.n.
+image: assets/img/portfolio/house11.png
 
 caption:
-  title: Apartment# 6
-  subtitle: 77 m² | € 335,686 v.o.n.
-  thumbnail: assets/img/portfolio/house4.png
+  title: Apartment# 11
+  subtitle: 125 m² | € 595,949.344 v.o.n.
+  thumbnail: assets/img/portfolio/house11.png
 ---
-Describe the apartment. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-
-
