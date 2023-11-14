@@ -44,7 +44,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Available apartments"
-    text: "Approximately 4800 €/sq.m. Costs are 20% lower than market value"
+    text: "Approximately 5000 €/sq.m. Costs are 20% lower than market value"
     section: portfolio
     closebutton: "Close"
 
